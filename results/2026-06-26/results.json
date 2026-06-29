@@ -1,0 +1,158 @@
+{
+  "predictionDate": "2026-06-26",
+  "scorecard": {
+    "totalPredictions": 14,
+    "correct": 6,
+    "incorrect": 8,
+    "pending": 0,
+    "hitRate": 0.42857142857142855,
+    "bySignal": {
+      "FAULT": {
+        "total": 5,
+        "correct": 1,
+        "hitRate": null
+      },
+      "WARNING": {
+        "total": 9,
+        "correct": 5,
+        "hitRate": null
+      },
+      "NORMAL": {
+        "total": 0,
+        "correct": null,
+        "hitRate": null
+      }
+    },
+    "topCorrect": [],
+    "topIncorrect": []
+  },
+  "results": [
+    {
+      "ticker": "AIG",
+      "signal": "WARNING",
+      "outcome": "INCORRECT",
+      "actualReturn": -0.005955,
+      "pFault": 0.4553,
+      "pWarning": 0.5443,
+      "pNormal": 0.0005
+    },
+    {
+      "ticker": "ARKW",
+      "signal": "FAULT",
+      "outcome": "INCORRECT",
+      "actualReturn": 0.034478,
+      "pFault": 0.5101,
+      "pWarning": 0.4872,
+      "pNormal": 0.0027
+    },
+    {
+      "ticker": "AUDCAD=X",
+      "signal": "FAULT",
+      "outcome": "INCORRECT",
+      "actualReturn": 0.000409,
+      "pFault": 0.5734,
+      "pWarning": 0.4254,
+      "pNormal": 0.0012
+    },
+    {
+      "ticker": "COR",
+      "signal": "WARNING",
+      "outcome": "INCORRECT",
+      "actualReturn": -0.015657,
+      "pFault": 0.0897,
+      "pWarning": 0.91,
+      "pNormal": 0.0003
+    },
+    {
+      "ticker": "DIA",
+      "signal": "WARNING",
+      "outcome": "CORRECT",
+      "actualReturn": 0.007591,
+      "pFault": 0.0423,
+      "pWarning": 0.9574,
+      "pNormal": 0.0003
+    },
+    {
+      "ticker": "EURAUD=X",
+      "signal": "WARNING",
+      "outcome": "CORRECT",
+      "actualReturn": 0.000727,
+      "pFault": 0.1272,
+      "pWarning": 0.8542,
+      "pNormal": 0.0187
+    },
+    {
+      "ticker": "EURCAD=X",
+      "signal": "WARNING",
+      "outcome": "CORRECT",
+      "actualReturn": 0.000124,
+      "pFault": 0.2968,
+      "pWarning": 0.7001,
+      "pNormal": 0.0031
+    },
+    {
+      "ticker": "EURGBP=X",
+      "signal": "FAULT",
+      "outcome": "INCORRECT",
+      "actualReturn": 0.000232,
+      "pFault": 0.6139,
+      "pWarning": 0.2217,
+      "pNormal": 0.1644
+    },
+    {
+      "ticker": "GLD",
+      "signal": "FAULT",
+      "outcome": "CORRECT",
+      "actualReturn": -0.013516,
+      "pFault": 0.7934,
+      "pWarning": 0.2054,
+      "pNormal": 0.0012
+    },
+    {
+      "ticker": "IWM",
+      "signal": "WARNING",
+      "outcome": "INCORRECT",
+      "actualReturn": -0.002868,
+      "pFault": 0.2011,
+      "pWarning": 0.7985,
+      "pNormal": 0.0003
+    },
+    {
+      "ticker": "KMI",
+      "signal": "WARNING",
+      "outcome": "INCORRECT",
+      "actualReturn": -0.027719,
+      "pFault": 0.417,
+      "pWarning": 0.5824,
+      "pNormal": 0.0006
+    },
+    {
+      "ticker": "LRCX",
+      "signal": "WARNING",
+      "outcome": "CORRECT",
+      "actualReturn": 0.083938,
+      "pFault": 0.4461,
+      "pWarning": 0.5538,
+      "pNormal": 0
+    },
+    {
+      "ticker": "OKTA",
+      "signal": "WARNING",
+      "outcome": "CORRECT",
+      "actualReturn": 0.056566,
+      "pFault": 0.3062,
+      "pWarning": 0.6928,
+      "pNormal": 0.0009
+    },
+    {
+      "ticker": "PA=F",
+      "signal": "FAULT",
+      "outcome": "INCORRECT",
+      "actualReturn": 0.004998,
+      "pFault": 0.9927,
+      "pWarning": 0.0073,
+      "pNormal": 0.0001
+    }
+  ],
+  "timestamp_utc": "2026-06-29T22:02:38.255Z"
+}
